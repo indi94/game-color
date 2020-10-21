@@ -1,0 +1,25 @@
+.barre{
+    text-align: center;
+    height: 100px;
+    background-color: #373737;
+    color: whitesmoke;
+}
+
+body{
+    background-color: #a4a4a4!important;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.couche2{
+    height: 50px;
+    background-color: #fff;
+}
+.a{
+    background-color: rgb(104, 64, 64);
+    height: 250px;
+    width: 200px;
+    border-radius: 15%;
+}
